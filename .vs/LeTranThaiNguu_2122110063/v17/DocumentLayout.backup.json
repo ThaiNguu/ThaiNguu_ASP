@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:51:23.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

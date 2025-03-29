@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LeTranThaiNguu_2122110063.props" />
+</Project>

@@ -1,0 +1,6 @@
+@LeTranThaiNguu_2122110063_HostAddress = http://localhost:5223
+
+GET {{LeTranThaiNguu_2122110063_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -11,40 +39,16 @@
       "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\letranthainguu_2122110063.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\letranthainguu_2122110063.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\migrations\\20250329031245_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\migrations\\20250329031245_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\letranthainguu_2122110063.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\letranthainguu_2122110063.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,37 +58,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "LeTranThaiNguu_2122110063\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T03:25:14.985Z",
+              "WhenOpened": "2025-04-05T02:03:08.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250329031245_InitialCreate.cs",
-              "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Migrations\\20250329031245_InitialCreate.cs",
-              "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Migrations\\20250329031245_InitialCreate.cs",
-              "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Migrations\\20250329031245_InitialCreate.cs",
-              "RelativeToolTip": "LeTranThaiNguu_2122110063\\Migrations\\20250329031245_InitialCreate.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwEYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T03:25:09.965Z",
+              "WhenOpened": "2025-04-05T02:02:40.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\Category.cs",
+              "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Category.cs",
+              "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\Category.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T01:00:04.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\WeatherForecast.cs",
@@ -92,37 +121,35 @@
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T02:42:56.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T02:42:56.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\appsettings.Development.json",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\appsettings.Development.json",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\appsettings.Development.json",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T02:10:51.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T02:10:51.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LeTranThaiNguu_2122110063.http",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.http",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.http",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.http",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-03-29T02:03:30.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Properties\\launchSettings.json",
@@ -134,26 +161,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Data\\AppDbContext.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T01:40:03.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Product.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\Product.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Product.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\Product.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T00:59:30.191Z",
               "EditorCaption": ""
@@ -166,35 +193,35 @@
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Program.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Program.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T00:53:03.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\appsettings.json",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\appsettings.json",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\appsettings.json",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T00:52:47.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T00:52:47.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:51:23.472Z"
+              "WhenOpened": "2025-03-29T00:51:23.472Z",
+              "EditorCaption": ""
             }
           ]
         }

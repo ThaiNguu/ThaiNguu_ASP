@@ -167,3 +167,13 @@ C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\obj\Debu
 C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\obj\Debug\net8.0\LeTranThaiNguu_2122110063.pdb
 C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\obj\Debug\net8.0\LeTranThaiNguu_2122110063.genruntimeconfig.cache
 C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\obj\Debug\net8.0\ref\LeTranThaiNguu_2122110063.dll
+C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\ASP.NET_ThaiNguu\LeTranThaiNguu_2122110063\LeTranThaiNguu_2122110063\bin\Debug\net8.0\BCrypt.Net-Next.dll

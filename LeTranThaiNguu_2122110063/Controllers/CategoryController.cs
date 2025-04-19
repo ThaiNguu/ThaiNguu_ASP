@@ -1,12 +1,14 @@
 ﻿using LeTranThaiNguu_2122110063.Data;
 using LeTranThaiNguu_2122110063.Model;
+
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace LeTranThaiNguu_2122110063.Controllers
 {
+    
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api")]
     public class CategoryController : ControllerBase
     {
         private readonly AppDbContext _context;
@@ -16,7 +18,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // GET: api/category
-        [HttpGet]
+        [HttpGet("admin/Category")]
         public async Task<ActionResult<IEnumerable<Category>>> GetCategories()
         {
             // Chỉ trả về các trường của category, không bao gồm các sản phẩm
@@ -38,7 +40,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // GET: api/category/5
-        [HttpGet("{id}")]
+        [HttpGet("admin/Category/{id}")]
         public async Task<ActionResult<Category>> GetCategory(int id)
         {
             var category = await _context.Categories
@@ -62,9 +64,9 @@ namespace LeTranThaiNguu_2122110063.Controllers
             return Ok(category); // Trả về dữ liệu đã được select
         }
 
-       
+
         // POST: api/category
-        [HttpPost]
+        [HttpPost("public/Category")]
         public async Task<ActionResult<Category>> CreateCategory(Category category)
         {
             _context.Categories.Add(category);
@@ -89,7 +91,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
 
 
         // PUT: api/category/5
-        [HttpPut("{id}")]
+        [HttpPut("admin/Category/{id}")]
         public async Task<IActionResult> UpdateCategory(int id, Category category)
         {
             if (id != category.Category_id)
@@ -115,7 +117,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // DELETE: api/category/5
-        [HttpDelete("{id}")]
+        [HttpDelete("admin/Category/{id}")]
         public async Task<IActionResult> DeleteCategory(int id)
         {
             var category = await _context.Categories.FindAsync(id);

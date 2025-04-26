@@ -23,7 +23,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
             _configuration = configuration;
         }
 
-        // POST: api/user/login
+        // POST: api/login
         [HttpPost("login")]
         public async Task<ActionResult> Login([FromBody] LoginModel loginModel)
         {
@@ -38,14 +38,21 @@ namespace LeTranThaiNguu_2122110063.Controllers
                 return Unauthorized(new { message = "Email hoặc mật khẩu không đúng" });
             }
 
-            // Check if the user's role is "admin"
-            if (user.Role != "admin")
-            {
-                return Unauthorized(new { message = "Chỉ có vai trò admin mới được phép đăng nhập" });
-            }
-
             var token = GenerateJwtToken(user);
-            return Ok(new { token });
+            var userData = new
+            {
+                id = user.Id,
+                username = user.UserName,
+                fullName = user.FullName,
+                email = user.Email,
+                phone = user.Phone ?? "",
+                address = user.Address ?? "",
+                roles = user.Role, // Chuẩn hóa thành 'roles'
+                created_at = user.Create_at,
+                updated_at = user.Update_at
+            };
+
+            return Ok(new { token, user = userData });
         }
 
         // Hàm tạo JWT token
@@ -76,8 +83,8 @@ namespace LeTranThaiNguu_2122110063.Controllers
             return tokenHandler.WriteToken(token);
         }
 
-        // GET: api/User
-        [HttpGet("admin/User")]
+        // GET: api/public/User
+        [HttpGet("public/User")]
         public async Task<ActionResult<IEnumerable<object>>> GetUsers()
         {
             var users = await _context.Users
@@ -89,6 +96,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
                     u.Phone,
                     u.Address,
                     u.Role,
+                    u.Email,
                     u.Create_at,
                     u.Create_by,
                     u.Update_at,
@@ -101,8 +109,8 @@ namespace LeTranThaiNguu_2122110063.Controllers
             return Ok(users);
         }
 
-        // GET: api/User/5
-        [HttpGet("admin/User/{id}")]
+        // GET: api/public/User/{id}
+        [HttpGet("public/User/{id}")]
         public async Task<ActionResult<object>> GetUser(string id)
         {
             var user = await _context.Users
@@ -115,6 +123,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
                     u.Phone,
                     u.Address,
                     u.Role,
+                    u.Email,
                     u.Create_at,
                     u.Create_by,
                     u.Update_at,
@@ -130,16 +139,15 @@ namespace LeTranThaiNguu_2122110063.Controllers
             return Ok(user);
         }
 
-        // POST: api/user
+        // POST: api/public/User
         [HttpPost("public/User")]
         public async Task<ActionResult<object>> CreateUser(User user)
         {
             if (!ModelState.IsValid)
                 return BadRequest(new { message = "Dữ liệu không hợp lệ" });
 
-            // Băm mật khẩu trước khi lưu
             user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(user.PasswordHash);
-            user.Id = Guid.NewGuid().ToString(); // Tạo ID duy nhất
+            user.Id = Guid.NewGuid().ToString();
             user.Create_at = DateTime.UtcNow;
 
             _context.Users.Add(user);
@@ -153,6 +161,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
                 user.Phone,
                 user.Address,
                 user.Role,
+                user.Email,
                 user.Create_at,
                 user.Create_by,
                 user.Update_at,
@@ -164,14 +173,13 @@ namespace LeTranThaiNguu_2122110063.Controllers
             return CreatedAtAction(nameof(GetUser), new { id = user.Id }, createdUser);
         }
 
-        // PUT: api/User/5
-        [HttpPut("admin/User/{id}")]
+        // PUT: api/public/User/{id}
+        [HttpPut("public/User/{id}")]
         public async Task<IActionResult> UpdateUser(string id, User user)
         {
             if (id != user.Id)
                 return BadRequest(new { message = "ID không khớp" });
 
-            // Băm lại mật khẩu nếu được cung cấp
             if (!string.IsNullOrEmpty(user.PasswordHash))
                 user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(user.PasswordHash);
 
@@ -197,6 +205,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
                 user.Phone,
                 user.Address,
                 user.Role,
+                user.Email,
                 user.Create_at,
                 user.Create_by,
                 user.Update_at,
@@ -208,8 +217,8 @@ namespace LeTranThaiNguu_2122110063.Controllers
             return Ok(updatedUser);
         }
 
-        // DELETE: api/user/5
-        [HttpDelete("admin/User/{id}")]
+        // DELETE: api/public/User/{id}
+        [HttpDelete("public/User/{id}")]
         public async Task<IActionResult> DeleteUser(string id)
         {
             var user = await _context.Users.FindAsync(id);

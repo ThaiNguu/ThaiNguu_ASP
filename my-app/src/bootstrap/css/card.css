@@ -1,0 +1,41 @@
+.card-custom {
+  color: #343a40; /* Màu dark */
+  max-width: 18rem; /* Giới hạn chiều rộng thẻ */
+  margin: 0 auto; /* Canh giữa thẻ */
+  text-decoration: none !important; /* Bảo đảm không có dấu gạch dưới */
+}
+.card-custom h4, .card-custom p {
+  color: #343a40; /* Màu dark */
+  text-decoration: none !important; /* Bảo đảm không có dấu gạch dưới */
+}
+
+
+a {
+  text-decoration: none !important;
+  color: inherit; /* Bảo đảm màu của liên kết thừa kế từ phần tử cha */
+}
+/* Giảm khoảng cách giữa các cột */
+.card-custom-container {
+  padding-left: 5px; /* Giảm padding bên trái */
+  padding-right: 5px; /* Giảm padding bên phải */
+}
+.card-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 0.9rem; /* Điều chỉnh giá trị này nếu cần */
+}
+.card-custom {
+  color: #343a40; /* Màu dark */
+  max-width: 18rem; /* Giới hạn chiều rộng thẻ */
+  margin: 0 auto; /* Canh giữa thẻ */
+  text-decoration: none !important; /* Bảo đảm không có dấu gạch dưới */
+}
+.card-custom h4, .card-custom p {
+  color: #343a40; /* Màu dark */
+  text-decoration: none !important; /* Bảo đảm không có dấu gạch dưới */
+}
+a {
+  text-decoration: none !important;
+  color: inherit; /* Bảo đảm màu của liên kết thừa kế từ phần tử cha */
+}

@@ -1,0 +1,68 @@
+#footer-container {
+  background-color: #1e1e1e; /* Background color of the footer */
+  padding: 20px; /* Padding to add some space around the footer */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff; /* Text color for the footer */
+}
+
+.footer-left {
+  flex: 1;
+  text-align: left;
+}
+
+.footer-left a {
+  color: #ffffff; /* Link color */
+  text-decoration: none; /* Remove underline from links */
+}
+
+#footer-menu {
+  flex: 2;
+  display: flex;
+  justify-content: center;
+  list-style: none; /* Remove bullets from list */
+  padding: 0;
+  margin: 0;
+}
+
+#footer-menu .nav-item {
+  margin: 0 15px; /* Space between each menu item */
+}
+
+#footer-menu .nav-link {
+  color: #ffffff; /* Text color of the menu items */
+  font-size: 16px; /* Font size of the menu items */
+  padding: 10px; /* Padding around the menu items */
+  text-decoration: none; /* Remove underline from links */
+}
+
+#footer-menu .nav-link:hover {
+  color: #f5a623; /* Hover color for the menu items */
+}
+
+#footer-menu .dropdown-menu {
+  background-color: #333; /* Background color for the dropdown menu */
+}
+
+#footer-menu .dropdown-item {
+  color: #ffffff; /* Text color for dropdown items */
+}
+
+#footer-menu .dropdown-item:hover {
+  background-color: #f5a623; /* Background color for hovered dropdown items */
+  color: #000; /* Text color for hovered dropdown items */
+}
+a:hover {
+  color: #f5a623; /* Orange color on hover */
+}
+
+.footer-right {
+  flex: 1;
+  text-align: right;
+}
+
+.footer-right img {
+  max-width: 100px; /* Adjust the size as needed */
+  height: auto;
+}

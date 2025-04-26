@@ -1,0 +1,124 @@
+.custom-cart-page {
+    background-color: #f5f5f5;
+    padding-bottom: 60px;
+  }
+  
+  .custom-cart-item {
+    background-color: #ffffff;
+    padding: 15px;
+    
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+  }
+  
+  .custom-cart-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  }
+  
+  .custom-cart-image {
+    width: 100px;
+    max-width: 60%;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .custom-cart-image:hover {
+    transform: scale(1.03);
+  }
+  
+  .custom-quantity-btn {
+    width: 40px;
+    font-size: 1.2em;
+    background-color: #f0f0f0;
+    border: none;
+    color: #973333;
+    border-radius: 6px;
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .custom-quantity-btn:hover {
+    background-color: #ffcc00;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  }
+  
+  .custom-remove-btn {
+    font-size: 1em;
+    padding: 10px 15px;
+    background-color: #ff4d4d;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .custom-remove-btn:hover {
+    background-color: #e60000;
+  }
+  
+  .custom-checkout-btn {
+    font-size: 1.2em;
+    padding: 12px 25px;
+    background-color: #12ac69;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, box-shadow 0.2s ease;
+  }
+  
+  .custom-checkout-btn:hover {
+    background-color: #218838;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .custom-total-price {
+    font-weight: bold;
+    font-size: 1.6em;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .custom-empty-cart {
+    font-size: 1.4em;
+    color: #999;
+    text-align: center;
+    padding: 50px 0;
+    margin: 0 auto;
+  }
+  
+  .custom-shop-info {
+    background-color: #f4f1f5;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-shop-info p {
+    margin: 0;
+    font-size: 1.1em;
+    color: #8407b2;
+  }
+  
+  .custom-cart-page h1 {
+    font-size: 2.5em;
+    color: #2837a7;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-total-price {
+    text-align: right;
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #ff5c5c;
+  }
+  .custom-empty-cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; /* Hoặc chiều cao bạn muốn */
+  }
+  

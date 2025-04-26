@@ -1,0 +1,75 @@
+.post-detail-container-unique {
+    background-color: #f8f9fa; /* Màu nền nhẹ nhàng */
+    padding: 0;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px; /* Khoảng cách dưới container */
+}
+
+.post-detail-content-unique {
+    background: white; /* Nền trắng cho nội dung */
+    border-radius: 8px;
+    padding: 30px; /* Tăng padding cho nội dung */
+    margin-top: 20px;
+    transition: transform 0.2s; /* Hiệu ứng chuyển động khi hover */
+}
+
+.post-detail-content-unique:hover {
+    transform: translateY(-2px); /* Di chuyển lên một chút khi hover */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Tăng độ bóng khi hover */
+}
+
+.post-detail-title-unique {
+    font-size: 2rem; /* Kích thước chữ lớn hơn cho tiêu đề */
+    font-weight: bold; /* In đậm */
+    color: #343a40; /* Màu chữ tối */
+    margin-bottom: 20px; /* Khoảng cách dưới tiêu đề */
+}
+
+.post-detail-heading-unique,
+.post-description-heading-unique,
+.post-info-heading-unique {
+    font-size: 1.5rem; /* Kích thước chữ lớn hơn cho heading */
+    color: #495057; /* Màu chữ nhạt hơn */
+    margin-top: 20px; /* Khoảng cách trên cho heading */
+    margin-bottom: 10px; /* Khoảng cách dưới cho heading */
+}
+
+.post-info-list-unique {
+    list-style-type: none; /* Bỏ dấu chấm */
+    padding: 0;
+    margin: 10px 0; /* Khoảng cách trên và dưới cho danh sách */
+}
+
+.post-info-list-unique li {
+    padding: 5px 0; /* Khoảng cách giữa các mục */
+    border-bottom: 1px solid #dee2e6; /* Thêm đường phân cách */
+}
+
+.post-info-list-unique li:last-child {
+    border-bottom: none; /* Bỏ đường phân cách cho mục cuối */
+}
+
+.post-detail-image-unique {
+    max-width: 100%; /* Đảm bảo ảnh không vượt quá chiều rộng của container */
+    border-radius: 8px; /* Bo góc cho ảnh */
+    margin-bottom: 20px; /* Khoảng cách dưới cho ảnh */
+}
+
+
+
+.btn:hover {
+    /* Màu nền khi hover */
+    color: white; /* Màu chữ khi hover */
+    transform: scale(1.05); /* Tăng kích thước một chút khi hover */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Màu nền chính */
+    border-color: #007bff; /* Màu biên cho nút */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Màu nền khi hover */
+    border-color: #0056b3; /* Màu biên khi hover */
+}

@@ -1,0 +1,102 @@
+.list-product {
+    
+    background-color: #f9f9f9;
+  }
+  
+  .category-column {
+    
+  
+    padding: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  
+  
+  .product-column {
+    padding: 20px;
+  }
+  
+  .category-title {
+    font-size: 28px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .accordion-header {
+    display: flex;
+    align-items: center;
+    padding: 12px 20px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    font-size: 16px;
+    font-weight: 500;
+    color: #555;
+  }
+  
+  .accordion-header:hover {
+    background-color: #eaeaea;
+    transform: scale(1.02); /* Nhẹ phóng to khi hover */
+  }
+  
+  .view-category-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #ff6f61; /* Màu đỏ cam nhẹ */
+    color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+  }
+  
+  .view-category-button:hover {
+    background-color: #ff4d3f; /* Màu đỏ đậm hơn khi hover */
+    transform: translateY(-3px); /* Nâng lên nhẹ khi hover */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .no-products {
+    color: #999;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .product-card {
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05); /* Bóng mờ nhẹ và mềm */
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+  }
+  
+  .product-card:hover {
+    transform: scale(1.03); /* Phóng to nhẹ khi hover */
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.1); /* Bóng mờ đậm hơn */
+  }
+  
+  ul.list-group {
+    padding-left: 0;
+    list-style: none; /* Loại bỏ các dấu chấm */
+  }
+  
+  li.list-group-item {
+    margin-bottom: 10px;
+    padding: 10px 15px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  li.list-group-item:hover {
+    transform: translateY(-5px); /* Nâng nhẹ khi hover */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+  }
+  

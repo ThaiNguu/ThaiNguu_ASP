@@ -3,72 +3,56 @@
   "WorkspaceRootPath": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\middleware\\pathbasedauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\middleware\\pathbasedauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\cart_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\cart_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,28 +63,44 @@
       "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\cart_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\cart_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\controllers\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\controllers\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\middleware\\pathbasedauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\middleware\\pathbasedauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|solutionrelative:letranthainguu_2122110063\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C1F9F92-B534-4A44-A2A1-1D64AF49F161}|LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063.csproj|c:\\asp.net_thainguu\\letranthainguu_2122110063\\letranthainguu_2122110063\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "PathBasedAuthenticationMiddleware.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Middleware\\PathBasedAuthenticationMiddleware.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Middleware\\PathBasedAuthenticationMiddleware.cs",
@@ -138,140 +138,132 @@
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Middleware\\PathBasedAuthenticationMiddleware.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAAwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T12:10:55.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T12:10:55.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Program.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Program.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Program.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T03:14:27.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "OrderDetailController.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\OrderDetailController.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\OrderDetailController.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\OrderDetailController.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\OrderDetailController.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAswFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAQwNIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:54:08.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:54:08.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\OrderController.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\OrderController.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAQwPMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:53:29.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:53:29.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "CartItemController.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\CartItemController.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\CartItemController.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\CartItemController.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\CartItemController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAswF4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowE4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T02:33:22.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\CartController.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\CartController.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\CartController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwC4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAQwGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:32:28.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:32:28.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\Payment.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\Payment.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\Payment.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\Payment.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:29:41.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:29:41.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "BannerController.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\BannerController.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\BannerController.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\BannerController.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\BannerController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAYwJEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:12:35.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:12:35.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\UserController.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\UserController.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\UserController.cs",
-              "ViewState": "AgIAANsAAAAAAAAAAAAYwOwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAuwPYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:09:03.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:09:03.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "BrandController.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\BrandController.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\BrandController.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\BrandController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAQwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T01:54:24.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T01:54:24.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\appsettings.json",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\appsettings.json",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\appsettings.json",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-12T01:39:48.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 1,
               "Title": "Cart_Item.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Cart_Item.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\Cart_Item.cs",
@@ -283,80 +275,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 15,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Payment.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\Payment.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Payment.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T01:26:40.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\OrderDetail.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\OrderDetail.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\OrderDetail.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\OrderDetail.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T01:18:44.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Order.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\Order.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Order.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\Order.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T01:17:50.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\User.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\User.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\User.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\User.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAiwBsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T01:16:25.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T01:16:25.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 6,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Cart.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\Cart.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Cart.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\Cart.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T01:14:29.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Banner.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Banner.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\Banner.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Banner.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\Banner.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA7wBYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T01:08:46.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Data\\AppDbContext.cs",
@@ -368,19 +359,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 16,
               "Title": "Brand.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Brand.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\Brand.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Brand.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\Brand.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T00:58:45.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Product.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\Product.cs",
@@ -388,47 +379,43 @@
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\Product.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T00:54:40.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T00:54:40.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\ProductController.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAIwFsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAP4AAAAAAAAAAAA9wAUBAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T02:03:08.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T02:03:08.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAYwIUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwHcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T02:02:40.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T02:02:40.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Category.cs",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\Model\\Category.cs",
               "ToolTip": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\Model\\Category.cs",
               "RelativeToolTip": "LeTranThaiNguu_2122110063\\Model\\Category.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T01:00:04.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T01:00:04.129Z"
             },
             {
               "$type": "Document",
@@ -444,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 12,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\ASP.NET_ThaiNguu\\LeTranThaiNguu_2122110063\\LeTranThaiNguu_2122110063\\appsettings.Development.json",
               "RelativeDocumentMoniker": "LeTranThaiNguu_2122110063\\appsettings.Development.json",

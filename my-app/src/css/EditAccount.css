@@ -1,0 +1,82 @@
+/* EditAccount.css */
+.edit-account-title {
+    font-size: 28px;
+    font-weight: 600;
+    color: #343a40;
+    margin-bottom: 20px;
+  }
+  
+  .edit-account-card {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  }
+  
+  .edit-account-card .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+    padding: 15px 20px;
+  }
+  
+  .edit-account-card .card-header .edit-account-btn {
+    background-color: #28a745;
+    color: #fff;
+    border-radius: 5px;
+    padding: 8px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .edit-account-card .card-header .edit-account-btn:hover {
+    background-color: #218838;
+  }
+  
+  .edit-account-card .card-header .btn-info {
+    background-color: #17a2b8;
+    color: #fff;
+    border-radius: 5px;
+    padding: 8px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .edit-account-card .card-header .btn-info:hover {
+    background-color: #138496;
+  }
+  
+  .edit-account-form {
+    padding: 20px;
+  }
+  
+  .edit-account-input, .edit-account-select {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    transition: border-color 0.3s ease;
+    width: 100%;
+  }
+  
+  .edit-account-input:focus, .edit-account-select:focus {
+    border-color: #80bdff;
+    outline: none;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  
+  .edit-account-input[type="file"] {
+    padding: 5px;
+  }
+  
+  .edit-account-card .text-danger {
+    color: #dc3545;
+    font-size: 13px;
+    margin-top: 5px;
+  }
+  
+  .edit-account-card .text-success {
+    color: #28a745;
+    font-size: 13px;
+    margin-top: 5px;
+  }
+  

@@ -2,10 +2,21 @@
 using LeTranThaiNguu_2122110063.Middleware;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", builder =>
+    {
+        builder.AllowAnyOrigin()
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
+});
+
 
 // Thêm dịch vụ
 builder.Services.AddControllers();
@@ -39,7 +50,7 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
-
+builder.Services.AddSingleton<IWebHostEnvironment>(builder.Environment);
 // Cấu hình EF DbContext
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -77,7 +88,19 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(
+        Path.Combine(Directory.GetCurrentDirectory(), "images", "products")),
+    RequestPath = "/images/products"
+});
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(
+        Path.Combine(Directory.GetCurrentDirectory(), "images", "banners")),
+    RequestPath = "/images/banners"
+});
+app.UseCors("AllowAll");
 app.UseHttpsRedirection();
 app.UseAuthentication(); // Thêm middleware xác thực
 app.UsePathBasedAuthentication(); // Thêm middleware kiểm tra đường dẫn

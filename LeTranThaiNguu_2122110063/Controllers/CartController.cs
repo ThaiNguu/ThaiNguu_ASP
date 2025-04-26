@@ -42,6 +42,21 @@ namespace LeTranThaiNguu_2122110063.Controllers
 
             return cart;
         }
+        // GET: api/public/Cart/user/{userId}
+        [HttpGet("public/Cart/user/{userId}")]
+        public async Task<ActionResult<Cart>> GetCartByUserId(string userId)
+        {
+            var cart = await _context.Carts
+                .Include(c => c.User)
+                .Include(c => c.CartItems)
+                .ThenInclude(ci => ci.Product)
+                .FirstOrDefaultAsync(c => c.User_id == userId);
+
+            if (cart == null)
+                return NotFound();
+
+            return cart;
+        }
 
         // POST: api/Cart
         [HttpPost("public/Cart")]

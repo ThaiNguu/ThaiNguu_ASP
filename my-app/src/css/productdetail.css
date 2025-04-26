@@ -1,0 +1,14 @@
+.product-detail-container {
+    background-color: #f8f9fa;
+    
+    border-radius: 5px;
+  }
+  
+  .price {
+    font-weight: bold;
+  }
+  
+  .quantity-control .btn {
+    min-width: 40px;
+  }
+  

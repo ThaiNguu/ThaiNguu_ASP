@@ -17,14 +17,14 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // GET: api/Payment
-        [HttpGet("admin/Payment")]
+        [HttpGet("public/Payment")]
         public async Task<ActionResult<IEnumerable<Payment>>> GetPayments()
         {
             return await _context.Payments.ToListAsync();
         }
 
         // GET: api/Payment/5
-        [HttpGet("admin/Payment/{id}")]
+        [HttpGet("public/Payment/{id}")]
         public async Task<ActionResult<Payment>> GetPayment(int id)
         {
             var payment = await _context.Payments.FindAsync(id);

@@ -1,0 +1,61 @@
+.login-custom-container {
+    max-width: 400px; /* Chiều rộng tối đa của khung đăng nhập */
+    margin: 50px auto; /* Căn giữa khung đăng nhập */
+    padding: 30px; /* Khoảng cách bên trong */
+    border-radius: 15px; /* Bo góc nhiều hơn */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.15); /* Đổ bóng */
+    background: linear-gradient(135deg, #edfce0, #eecff3); /* Màu nền gradient */
+}
+
+.login-title {
+    text-align: center; /* Căn giữa tiêu đề */
+    margin-bottom: 20px; /* Khoảng cách dưới tiêu đề */
+    font-size: 28px; /* Kích thước chữ lớn hơn */
+    color: #333; /* Màu chữ tối */
+}
+
+.login-form-group {
+    margin-bottom: 20px; /* Khoảng cách giữa các nhóm */
+}
+
+label {
+    font-weight: bold; /* Đậm chữ */
+    color: #555; /* Màu chữ cho label */
+}
+
+.login-input {
+    width: 100%; /* Chiều rộng 100% */
+    padding: 12px; /* Khoảng cách bên trong nhiều hơn */
+    border: 1px solid #ccc; /* Viền */
+    border-radius: 5px; /* Bo góc */
+    transition: border-color 0.3s, box-shadow 0.3s; /* Hiệu ứng chuyển tiếp */
+}
+
+.login-input:focus {
+    border-color: #a59e09; /* Màu viền khi có focus */
+    box-shadow: 0 0 5px rgba(141, 181, 20, 0.5); /* Đổ bóng khi có focus */
+    outline: none; /* Ẩn đường viền mặc định */
+}
+
+.login-submit-btn {
+    width: 100%; /* Chiều rộng 100% */
+    padding: 12px; /* Khoảng cách bên trong nhiều hơn */
+    font-size: 18px; /* Kích thước chữ lớn hơn */
+    border-radius: 5px; /* Bo góc */
+    background-color: #d6ab1e; /* Màu nền nút */
+    color: white; /* Màu chữ */
+    border: none; /* Ẩn viền */
+    cursor: pointer; /* Con trỏ khi di chuột lên nút */
+    transition: background-color 0.3s, transform 0.3s; /* Hiệu ứng chuyển tiếp */
+}
+
+.login-submit-btn:hover {
+    background-color: #ca7412; /* Màu nền khi hover */
+    transform: translateY(-2px); /* Hiệu ứng nâng nút lên */
+}
+
+.login-error-message {
+    color: red; /* Màu đỏ cho thông báo lỗi */
+    text-align: center; /* Căn giữa thông báo lỗi */
+    margin-top: 10px; /* Khoảng cách trên thông báo lỗi */
+}

@@ -1,0 +1,11 @@
+.pagination {
+    margin-top: 20px;
+  }
+  .page-item.active .page-link {
+    background-color: #ffffff;
+    border-color: #ffffff;
+  }
+  .page-link {
+    cursor: pointer;
+  }
+  

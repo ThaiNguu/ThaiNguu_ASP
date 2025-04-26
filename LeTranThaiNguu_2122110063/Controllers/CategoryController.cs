@@ -18,7 +18,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // GET: api/category
-        [HttpGet("admin/Category")]
+        [HttpGet("public/Category")]
         public async Task<ActionResult<IEnumerable<Category>>> GetCategories()
         {
             // Chỉ trả về các trường của category, không bao gồm các sản phẩm
@@ -40,7 +40,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // GET: api/category/5
-        [HttpGet("admin/Category/{id}")]
+        [HttpGet("public/Category/{id}")]
         public async Task<ActionResult<Category>> GetCategory(int id)
         {
             var category = await _context.Categories
@@ -91,7 +91,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
 
 
         // PUT: api/category/5
-        [HttpPut("admin/Category/{id}")]
+        [HttpPut("public/Category/{id}")]
         public async Task<IActionResult> UpdateCategory(int id, Category category)
         {
             if (id != category.Category_id)
@@ -117,7 +117,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // DELETE: api/category/5
-        [HttpDelete("admin/Category/{id}")]
+        [HttpDelete("public/Category/{id}")]
         public async Task<IActionResult> DeleteCategory(int id)
         {
             var category = await _context.Categories.FindAsync(id);

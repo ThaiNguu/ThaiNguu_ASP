@@ -1,0 +1,85 @@
+a:hover {
+    color: #f5a623; /* Orange color on hover */
+    }
+    .top-info {
+        background-color: #f8f9fa;
+        padding: 5px 0;
+        border-bottom: 1px solid #e0e0e0;
+    }
+    .top-info .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 14px;
+    }
+    .top-info a {
+        color: #333;
+        text-decoration: none;
+        margin: 0 10px;
+    }
+    .top-info a:hover {
+        text-decoration: underline;
+    }
+    .header {
+        padding: 10px 0;
+        border-bottom: 1px solid #e0e0e0;
+    }
+    .header .logo img {
+        width: 80px;
+    }
+    .header .navbar {
+        flex-grow: 1;
+    }
+    .header .navbar-nav a {
+        margin: 0 10px;
+        color: #666;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .header .navbar-nav a.sale {
+        color: #e74c3c;
+    }
+    .header .search-cart {
+        display: flex;
+        align-items: center;
+    }
+    .header .search-box {
+        display: flex;
+        align-items: center;
+        margin-right: 20px;
+    }
+    .header .search-box input {
+        border: 1px solid #ccc;
+        padding: 5px 10px;
+        border-radius: 5px 0 0 5px;
+    }
+    .header .search-box button {
+        border: 1px solid #ccc;
+        background-color: #f8f9fa;
+        padding: 5px 10px;
+        border-radius: 0 5px 5px 0;
+    }
+    .header .user-actions a {
+        margin-left: 20px;
+        color: #000;
+        text-decoration: none;
+    }
+    .header .user-actions .cart {
+        position: relative;
+    }
+    .header .user-actions .cart .badge {
+        position: absolute;
+        top: -5px;
+        right: -10px;
+        background-color: red;
+        color: white;
+        padding: 2px 5px;
+        border-radius: 50%;
+    }
+    .card-title {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: 0.9rem; /* Adjust this value as needed */
+    }
+    

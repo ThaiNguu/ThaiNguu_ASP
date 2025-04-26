@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeTranThaiNguu_2122110063")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2175555093f663094304c14782a8275ecda30973")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b858fe2126fea519ea8d69a9b2259182fa8be1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeTranThaiNguu_2122110063")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeTranThaiNguu_2122110063")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,87 @@
+.slider-container {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  max-width: 1900px; /* Tùy chọn: đặt chiều rộng tối đa cho carousel */
+  margin: 0 auto; /* Canh giữa carousel */
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  transition: 0.5s;
+}
+
+.slide img {
+  width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng của slide */
+  height: auto; /* Giữ tỉ lệ khung hình */
+  max-height: 585px; /* Đặt chiều cao cố định cho các ảnh */
+  object-fit: cover; /* Cắt ảnh để vừa với khung mà không bị méo */
+}
+
+.prev, .next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(255, 255, 255, 0); /* Không có màu nền */
+  border: none;
+  border-radius: 50%;
+  width: 50px; /* Nút lớn hơn một chút */
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: rgba(74, 74, 74, 0.7); /* Màu tối hơn nhưng mờ hơn để tạo hiệu ứng trong suốt */
+  box-shadow: 0 2px 10px rgba(117, 117, 117, 0.1); /* Giảm độ bóng để tạo cảm giác mờ hơn */
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  z-index: 1;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* Thêm hiệu ứng nền nhẹ khi hover */
+  transform: translateY(-50%) scale(1.1); /* Phóng to một chút khi hover */
+}
+
+
+.prev {
+  left: 15px;
+}
+
+.next {
+  right: 15px;
+}
+
+.dots {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 20px; /* Đặt các dot lên trên một chút so với đáy */
+  width: 100%;
+}
+
+.dot {
+  height: 4px; /* Chiều cao cực kỳ thấp */
+  width: 20px; /* Thay đổi thành hình vuông */
+  margin: 0 5px;
+  background-color: rgba(255, 255, 255, 0.5); /* Màu sắc mờ hơn và tối hơn */
+  
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  
+}
+
+.dot.active {
+  background-color: rgba(144, 144, 144, 0.9); /* Màu của dot đang hoạt động với độ trong suốt tối hơn */
+  transform: scale(1.3); /* Phóng to dot đang hoạt động */
+}
+
+.dot:hover {
+  background-color: rgba(50, 50, 50, 0.7); /* Hiệu ứng hover nhẹ nhàng với màu tối hơn */
+}

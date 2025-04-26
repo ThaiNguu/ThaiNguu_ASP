@@ -1,0 +1,234 @@
+/* Top info bar styling */
+.top-info {
+  background: linear-gradient(90deg, #e9bc34 0%, #c68bd6 100%);
+  color: #fff;
+  font-size: 14px;
+  padding: 6px 0;
+}
+
+.top-info a {
+  color: #fff;
+  margin: 0 6px;
+  transition: color 0.3s;
+  font-size: 14px;
+}
+
+.top-info a:hover {
+  color: #ffc107;
+}
+
+.header {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff;
+  padding: 8px 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 100;
+  overflow: hidden;
+  border: none; /* Bỏ viền cho header */
+}
+
+.logo img {
+  max-height: 30px;
+}
+
+.navbar-nav .nav-link {
+  color: #333;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 6px 10px;
+  font-size: 16px;
+  transition: color 0.3s;
+  border: none; /* Bỏ viền cho các liên kết menu */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffc107;
+}
+
+.search-box input {
+  border: 1px solid #ccc;
+  padding: 4px;
+  border-radius: 5px;
+}
+
+.search-box button {
+  background: none;
+  border: none;
+  color: #333;
+}
+
+.user-actions a {
+  color: #333;
+  font-weight: 600;
+  margin-left: 8px;
+  font-size: 14px;
+  transition: color 0.3s;
+}
+
+.user-actions a:hover {
+  color: #ffc107;
+}
+
+.cart .badge {
+  background-color: #72ff07;
+  color: #fff;
+}
+
+/* Hide scrollbar */
+html, body {
+  overflow-x: hidden;
+}
+
+/* Biểu tượng */
+.fa {
+  color: #007bff;
+  transition: color 0.3s;
+}
+
+.fa:hover {
+  color: #ffc107;
+}
+
+/* Đặt màu riêng cho từng biểu tượng nếu cần */
+.fa-map-marker {
+  color: #dc3545;
+}
+
+.fa-phone {
+  color: #28a745;
+}
+
+.fa-truck {
+  color: #17a2b8;
+}
+
+.fa-headphones {
+  color: #6f42c1;
+}
+
+.fa-search {
+  color: #fd7e14;
+}
+
+.fa-shopping-cart {
+  color: #ffc107;
+}
+
+.fa-user {
+  color: #007bff;
+}
+/* mainmenu.css */
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: fixed; /* Đặt thành fixed để không bị ảnh hưởng bởi phần tử khác */
+  top: 50px; /* Điều chỉnh lại top để phù hợp vị trí dưới banner */
+  right: 0; /* Gắn dropdown vào góc phải màn hình */
+  z-index: 9999; /* Đặt giá trị cao để đảm bảo hiển thị trên cùng */
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 10px 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  width: 200px;
+}
+
+.header .user-actions {
+  position: relative; /* Để dropdown có vị trí tương đối với phần tử này */
+}
+
+.header .user-actions .dropdown-menu {
+  position: fixed;
+  top: 80px; /* Hoặc điều chỉnh theo chiều cao của header */
+  left: calc(100% - 160px); /* Căn trái theo kích thước bạn muốn */
+  z-index: 100; /* Đảm bảo dropdown nằm trên banner */
+  background-color: white; /* Màu nền cho dropdown */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bóng đổ */
+  border-radius: 4px; /* Bo góc */
+  display: none; /* Bắt đầu ẩn dropdown */
+}
+
+/* Hiện dropdown khi hover */
+.header .user-actions:hover .dropdown-menu {
+  display: block; /* Hiện dropdown khi hover */
+}
+
+/* Cải thiện hover cho items trong dropdown */
+.header .user-actions .dropdown-menu a {
+  display: block; /* Để các link trong dropdown dễ nhấn */
+  padding: 10px; /* Khoảng cách cho items */
+  color: black; /* Màu chữ */
+  text-decoration: none; /* Không gạch chân */
+}
+
+/* Hiệu ứng hover cho items */
+.header .user-actions .dropdown-menu a:hover {
+  background-color: #f0f0f0; /* Nền sáng hơn khi hover */
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.dropdown-toggle {
+  padding: 10px 15px;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.dropdown-toggle:hover {
+  transform: scale(1.0); /* Phóng to nhẹ khi hover */
+  color: #e6ba41; /* Đổi màu chữ khi hover */
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: inherit; /* Giữ nguyên màu nền gốc */
+  padding: 10px 0;
+  width: 200px;
+  border-radius: 4px;
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  pointer-events: none; /* Không cho tương tác khi dropdown chưa mở */
+}
+
+.dropdown-menu.show {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.dropdown-item {
+  padding: 10px 15px;
+  color: inherit; /* Giữ nguyên màu chữ gốc */
+  text-decoration: none;
+  display: block;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.dropdown-item:hover {
+  transform: translateX(5px); /* Dịch chuyển nhẹ khi hover */
+  color: #3498db; /* Thêm màu sắc khi hover */
+}
+
+.user-info-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.account-page-img {
+  width: 40px !important; /* Cố định chiều rộng */
+  height: 40px !important; /* Cố định chiều cao */
+  border-radius: 50%;
+  border: #dc9048 solid;
+  margin-right: 5px !important; /* Khoảng cách giữa ảnh và chữ */
+}
+
+

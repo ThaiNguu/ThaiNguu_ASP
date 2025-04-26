@@ -1,0 +1,110 @@
+
+.category-column {
+    
+    padding: 20px;
+    border-radius: 10px;
+  
+    transition: background-color 0.3s ease;
+}
+
+.category-column h2 {
+    font-size: 28px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Danh sách danh mục */
+ul.list-group {
+    padding-left: 0;
+    list-style: none; /* Loại bỏ dấu chấm */
+}
+
+li.list-group-item {
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05); /* Hiệu ứng bóng nhẹ */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+li.list-group-item:hover {
+    background-color: #eaeaea; /* Màu nền khi hover */
+    transform: translateY(-5px); /* Hiệu ứng nâng lên */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08); /* Bóng mờ đậm hơn */
+}
+
+/* Accordion header */
+.accordion-header {
+    display: flex;
+    align-items: center;
+    padding: 12px 20px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    font-size: 16px;
+    font-weight: 500;
+    color: #555;
+}
+
+.accordion-header:hover {
+    background-color: #eaeaea;
+    transform: scale(1.02); /* Phóng to nhẹ khi hover */
+}
+
+/* Nút xem danh mục */
+.list-group-item button {
+    background-color: #ff6f61; /* Màu nền nút */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.list-group-item button:hover {
+    background-color: #ff4d3f; /* Màu đậm khi hover */
+    transform: translateY(-3px); /* Nâng lên nhẹ */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Sản phẩm */
+.product-card {
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05); /* Hiệu ứng bóng nhẹ */
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.product-card:hover {
+    transform: scale(1.03); /* Phóng to khi hover */
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.1); /* Bóng mờ đậm hơn */
+}
+
+/* Phân trang */
+.pagination button {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.pagination button:hover {
+    background-color: #0056b3;
+}
+
+.no-products {
+    color: #999;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 50px;
+}

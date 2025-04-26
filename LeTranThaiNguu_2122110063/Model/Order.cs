@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
 
 namespace LeTranThaiNguu_2122110063.Model
@@ -13,7 +14,7 @@ namespace LeTranThaiNguu_2122110063.Model
         public DateTime OrderDate { get; set; } = DateTime.Now;
         public double TotalAmount { get; set; } // Tổng tiền
         public string Status { get; set; }      // Pending, Paid, Cancelled...
-
+        public string Delivery_address { get; set; }
         public DateTime? Create_at { get; set; }
         public string Create_by { get; set; }
         public DateTime? Update_at { get; set; }
@@ -22,15 +23,11 @@ namespace LeTranThaiNguu_2122110063.Model
         public string Delete_by { get; set; }
 
         // Navigation
-
-        [JsonIgnore]
         [ForeignKey("User_id")]
         public User? User { get; set; }
 
-        [JsonIgnore]
         public ICollection<OrderDetail> OrderDetails { get; set; } = new List<OrderDetail>();
 
-        [JsonIgnore]
         public Payment? Payment { get; set; }
     }
 }

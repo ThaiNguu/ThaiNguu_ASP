@@ -1,0 +1,78 @@
+/* src/css/PostCard.css */
+
+.custom-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 12px; /* Tăng bo tròn các góc */
+    overflow: hidden;
+    display: flex;
+    flex-direction: column; /* Bố trí theo chiều dọc */
+    align-items: center;
+    justify-content: flex-start;
+    transition: transform 0.3s, box-shadow 0.3s; /* Thêm hiệu ứng mượt khi hover */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Bóng đổ tinh tế */
+}
+
+.custom-card:hover {
+    transform: translateY(-10px); /* Hiệu ứng nhấc thẻ khi hover */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Bóng đổ mạnh hơn khi hover */
+}
+
+.custom-post-image {
+    width: 100%;
+    height: auto;
+    max-height: 250px; /* Ép kích thước ảnh nhưng cao hơn */
+    overflow: hidden;
+    border-bottom: 1px solid #eee; /* Đường phân cách ảnh với nội dung */
+}
+
+.custom-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Đảm bảo ảnh vừa với khung */
+    transition: transform 0.3s; /* Thêm hiệu ứng mượt cho ảnh khi hover */
+}
+
+.custom-card:hover .custom-img {
+    transform: scale(1.05); /* Phóng to nhẹ ảnh khi hover */
+}
+
+.custom-card-body {
+    padding: 20px;
+    text-align: center; /* Căn giữa văn bản */
+}
+
+.custom-product-name {
+    font-size: 1.5rem; /* Tăng kích thước tiêu đề */
+    font-weight: 600; /* Đậm hơn một chút */
+    color: #333;
+    margin: 10px 0; /* Tăng khoảng cách trên và dưới */
+    background: none; /* Xóa nền xung quanh tên bài viết */
+}
+
+.custom-post-description {
+    font-size: 1rem; /* Điều chỉnh kích thước chữ */
+    color: #555;
+    line-height: 1.6; /* Khoảng cách dòng hợp lý */
+    margin-bottom: 20px;
+}
+
+.custom-post-button {
+    display: inline-block;
+    width: 100%; /* Nút chiếm toàn bộ chiều ngang */
+    text-align: center;
+    padding: 12px;
+    font-size: 1.1rem; /* Tăng kích thước chữ của nút */
+    background-color: #c237ce; /* Màu xanh đẹp mắt cho nút */
+    color: #fff;
+    border: none;
+    border-radius: 6px; /* Nút bo tròn nhẹ */
+    transition: background-color 0.3s, transform 0.2s; /* Hiệu ứng mượt khi hover nút */
+    font-weight: bold; /* Làm cho chữ trên nút đậm hơn */
+}
+
+.custom-post-button:hover {
+     /* Thay đổi màu nút khi hover */
+    transform: scale(1.05); /* Tăng nhẹ kích thước nút khi hover */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Bóng đổ khi hover */
+}

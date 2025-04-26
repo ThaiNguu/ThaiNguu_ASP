@@ -1,0 +1,11 @@
+/* adminpage.css */
+.wrapper {
+    min-height: 100vh; /* Đảm bảo chiều cao tối thiểu của wrapper là 100% chiều cao viewport */
+    display: flex; /* Sử dụng flexbox để sắp xếp các phần tử */
+    flex-direction: column; /* Sắp xếp các phần tử theo chiều dọc */
+}
+
+.main-footer {
+    position: relative;
+    margin-top: auto; /* Đẩy footer xuống dưới cùng */
+}

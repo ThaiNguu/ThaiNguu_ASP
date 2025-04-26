@@ -20,7 +20,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // GET: api/brand
-        [HttpGet("admin/Brand")]
+        [HttpGet("public/Brand")]
         public async Task<ActionResult<IEnumerable<Brand>>> GetBrands()
         {
             // Chỉ trả về các trường của Brand, không bao gồm các sản phẩm
@@ -42,7 +42,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // GET: api/brand/5
-        [HttpGet("admin/Brand/{id}")]
+        [HttpGet("public/Brand/{id}")]
         public async Task<ActionResult<Brand>> GetBrand(int id)
         {
             var brand = await _context.Brands
@@ -90,7 +90,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // PUT: api/brand/5
-        [HttpPut("admin/Brand/{id}")]
+        [HttpPut("public/Brand/{id}")]
         public async Task<IActionResult> UpdateBrand(int id, Brand brand)
         {
             if (id != brand.Id)
@@ -116,7 +116,7 @@ namespace LeTranThaiNguu_2122110063.Controllers
         }
 
         // DELETE: api/brand/5
-        [HttpDelete("admin/Brand/{id}")]
+        [HttpDelete("public/Brand/{id}")]
         public async Task<IActionResult> DeleteBrand(int id)
         {
             var brand = await _context.Brands.FindAsync(id);

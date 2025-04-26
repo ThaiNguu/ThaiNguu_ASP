@@ -1,0 +1,42 @@
+/* pagination.css */
+
+/* Container for pagination buttons */
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 20px;
+  }
+  
+  /* Style for individual pagination buttons */
+  .pagination-controls button {
+    padding: 8px 16px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    background-color: #f5f5f5;
+    color: #333;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  /* Style for the active page button */
+  .pagination-controls .active {
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #4CAF50;
+  }
+  
+  /* Hover effect for pagination buttons */
+  .pagination-controls button:hover:not(.active) {
+    background-color: #ddd;
+  }
+  
+  /* Disabled state */
+  .pagination-controls button:disabled {
+    background-color: #e0e0e0;
+    color: #999;
+    cursor: not-allowed;
+  }
+  
